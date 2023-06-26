@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "61072379479",
+    "firebase_url": "https://myuni-bd70e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "myuni-bd70e",
+    "storage_bucket": "myuni-bd70e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61072379479:android:abdaad257d294359171d12",
+        "android_client_info": {
+          "package_name": "com.example.myuni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61072379479-mij2n5ls4n8ersh4te7dfrkbbkvpdp3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myuni",
+            "certificate_hash": "6da78c1b450a86f1d311cafb50070cdbd12cac75"
+          }
+        },
+        {
+          "client_id": "61072379479-3itej23pi5vlns30cf1dm9nt8p0bcht9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdzy7-s2m6LBw9PcVKGJWSSlAEOW3_YZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61072379479-3itej23pi5vlns30cf1dm9nt8p0bcht9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

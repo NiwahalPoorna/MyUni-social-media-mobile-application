@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">myuni</string>
+    <string name="logo">string</string>
+    <string name="userName">User Name</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="by_signing_up_you_agree_to_our_terms_data_policy_and_cookies_policy">By signing up,you agree to our Terms.Data Policy and Cookies Policy</string>
+    <string name="sign_up">Sign up</string>
+    <string name="don_t_have_an_account">don\'t have an account?</string>
+    <string name="don_t_have_an_account2">Don\'t have an account?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="name">Name</string>
+    <string name="faculty">Faculty</string>
+    <string name="batch">Batch</string>
+    <string name="degree">Degree</string>
+    <string name="next">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="profile_fragment">Profile_fragment</string>
+    <string name="notification_fragment">notification_fragment</string>
+    <string name="events_fragment">events_fragment</string>
+    <string name="home">Home</string>
+    <string name="event">Event</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+    <string name="userfullname">userfullName</string>
+
+</resources>
